@@ -2,7 +2,7 @@
 
 This is an in-progress Esperanto translation of Pokémon FireRed and LeafGreen, forked from [pret's disassembly][original].
 
-It builds the following ROM:
+It builds the following ROMs:
 
 - Pokemon FireRed (UE) (Eo) (v1.0).gbc `sha256: TBA`
 - Pokemon LeafGreen (UE) (Eo) (v1.0).gbc `sha256: TBA`
