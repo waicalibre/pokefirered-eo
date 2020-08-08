@@ -1,39 +1,32 @@
 # Pokémon FireRed and LeafGreen
 
-[![Build Status][travis-badge]][travis]
+This is an in-progress Esperanto translation of Pokémon FireRed and LeafGreen, forked from [pret's disassembly][original].
 
-[travis]: https://travis-ci.org/pret/pokefirered
-[travis-badge]: https://travis-ci.org/pret/pokefirered.svg?branch=master
+It builds the following ROM:
 
-This is a disassembly of Pokémon FireRed and LeafGreen.
+- Pokemon FireRed (UE) (Eo) (v1.0).gbc `sha256: TBA`
+- Pokemon LeafGreen (UE) (Eo) (v1.0).gbc `sha256: TBA`
+- Pokemon FireRed (UE) (Eo) (v1.1).gbc `sha256: TBA`
+- Pokemon LeafGreen (UE) (Eo) (v1.1).gbc `sha256: TBA`
 
-It builds the following ROMs:
-
-* [**pokefirered.gba**](https://datomatic.no-intro.org/?page=show_record&s=23&n=1616) `sha1: 41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc`
-* [**pokeleafgreen.gba**](https://datomatic.no-intro.org/?page=show_record&s=23&n=1617) `sha1: 574fa542ffebb14be69902d1d36f1ec0a4afd71e`
-* [**pokefirered_rev1.gba**](https://datomatic.no-intro.org/?page=show_record&s=23&n=1672) `sha1: dd5945db9b930750cb39d00c84da8571feebf417`
-* [**pokeleafgreen_rev1.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1668) `sha1: 7862c67bdecbe21d1d69ce082ce34327e1c6ed5e`
-
-To set up the repository, see [INSTALL.md](INSTALL.md).
+To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 
 ## See also
 
-Other disassembly and/or decompilation projects:
-* [**Pokémon Red and Blue**](https://github.com/pret/pokered)
-* [**Pokémon Gold and Silver (Space World '97 demo)**](https://github.com/pret/pokegold-spaceworld)
-* [**Pokémon Yellow**](https://github.com/pret/pokeyellow)
-* [**Pokémon Trading Card Game**](https://github.com/pret/poketcg)
-* [**Pokémon Pinball**](https://github.com/pret/pokepinball)
-* [**Pokémon Stadium**](https://github.com/pret/pokestadium)
-* [**Pokémon Gold and Silver**](https://github.com/pret/pokegold)
-* [**Pokémon Crystal**](https://github.com/pret/pokecrystal)
-* [**Pokémon Ruby and Sapphire**](https://github.com/pret/pokeruby)
-* [**Pokémon Pinball: Ruby & Sapphire**](https://github.com/pret/pokepinballrs)
-* [**Pokémon Emerald**](https://github.com/pret/pokeemerald)
-* [**Pokémon Mystery Dungeon: Red Rescue Team**](https://github.com/pret/pmd-red)
+Other Pokémon Esperanto translation projects:
 
+- [**Pokémon Red/Blue**][pokered]
+- [**Pokémon Yellow**][pokeyellow]
+- [**Pokémon Gold/Silver**][pokegold]
+- [**Pokémon Crystal**][pokecrystal]
+- [**Pokémon Ruby/Sapphire**][pokeruby]
+- [**Pokémon Emerald**][pokeemerald]
 
-## Contacts
-
-You can find us on [Discord](https://discord.gg/d5dubZ3) and [IRC](https://kiwiirc.com/client/irc.freenode.net/?#pret).
+[pokered]: https://github.com/waicalibre/pokered-eo
+[pokeyellow]: https://github.com/waicalibre/pokeyellow-eo
+[pokegold]: https://github.com/waicalibre/pokegold-eo
+[pokecrystal]: https://github.com/waicalibre/pokecrystal-eo
+[pokeruby]: https://github.com/waicalibre/pokeruby-eo
+[original]: https://github.com/pret/pokefirered
+[pokeemerald]: https://github.com/waicalibre/pokeemerald-eo
