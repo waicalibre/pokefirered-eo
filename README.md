@@ -4,10 +4,10 @@ This is an in-progress Esperanto translation of Pokémon FireRed and LeafGreen, 
 
 It builds the following ROMs:
 
-- Pokemon FireRed (UE) (Eo) (v1.0).gbc `sha256: TBA`
-- Pokemon LeafGreen (UE) (Eo) (v1.0).gbc `sha256: TBA`
-- Pokemon FireRed (UE) (Eo) (v1.1).gbc `sha256: TBA`
-- Pokemon LeafGreen (UE) (Eo) (v1.1).gbc `sha256: TBA`
+- Pokemon FireRed (U) (Eo) (v1.0).gba `sha256: TBA`
+- Pokemon LeafGreen (U) (Eo) (v1.0).gba `sha256: TBA`
+- Pokemon FireRed (UE) (Eo) (v1.1).gba `sha256: TBA`
+- Pokemon LeafGreen (UE) (Eo) (v1.1).gba `sha256: TBA`
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
